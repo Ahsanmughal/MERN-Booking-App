@@ -5,7 +5,7 @@ import {
   Navigate,
 } from "react-router-dom";
 import Layout from "./layouts/layout";
-import Register from "./pages/register";
+import Register from "./pages/Register";
 import SignIn from "./pages/SignIn";
 import AddHotel from "./pages/AddHotel";
 import { useAppContext } from "./contexts/AppContext";

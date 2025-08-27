@@ -1,4 +1,4 @@
-import { RegisterFormData } from "./pages/register";
+import { RegisterFormData } from "./pages/Register";
 import { SignInFormData } from "./pages/SignIn";
 import {HotelType} from "../../backend/src/models/hotel";
 
